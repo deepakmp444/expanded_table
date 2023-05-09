@@ -127,7 +127,7 @@ function App() {
             </th>
             <th>
               Mass{" "}
-              {isHeight ? (
+              {isMass ? (
                 <span onClick={shortByMass}>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
